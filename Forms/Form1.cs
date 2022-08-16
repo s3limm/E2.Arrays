@@ -17,7 +17,7 @@ namespace ucak_bıletı_operasyonu
             InitializeComponent();
         }
 
-        string[] cities = { "İstanbul", "Ankara", "İzmir", "Antalya", "Bursa", "Van", "Denizli", "Adana", "Mersin", "Diyarbakır", "Zonguldak", "Çanakkale", "Muğla", "Aydın", "Kocaeli", "Edirne" };
+        string[] cities = { "İstanbul", "Ankara", "İzmir", "Antalya", "Bursa", "Van", "Denizli", "Adana", "Mersin", "Diyarbakır", "Zonguldak", "Çanakkale", "Muğla", "Aydın", "Kocaeli", "Elazığ" };
 
 
         private void Form1_Load(object sender, EventArgs e)
